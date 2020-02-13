@@ -1,0 +1,30 @@
+{
+  "name": "flags-args-readline",
+  "version": "1.0.0",
+  "description": "Command line arguments reader from specified flags, with readline prompt when value is not specified.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponlawat-w/flags-args-readline.git"
+  },
+  "keywords": [
+    "cmd",
+    "arguments",
+    "reader",
+    "flags"
+  ],
+  "author": "Ponlawat W.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponlawat-w/flags-args-readline/issues"
+  },
+  "homepage": "https://github.com/ponlawat-w/flags-args-readline#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {}
+}
